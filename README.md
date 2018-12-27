@@ -1,2 +1,2 @@
-# marathone
+# Trainings
 program ingeneering reposiyory
